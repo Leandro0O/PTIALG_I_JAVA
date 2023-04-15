@@ -1,6 +1,6 @@
 # Pti Algoritmos I - Senac
 
-Possivel solução em C# para o seguinte problema apresentado:
+Possivel solução em JAVA para o seguinte problema apresentado:
 
 Existe aplicações simples que podemos desenvolver e que ajuda e muito no nosso
 cotidiano. É uma grande dúvida quando vamos abastercer um veículo saber qual
